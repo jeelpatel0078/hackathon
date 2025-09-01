@@ -14,6 +14,9 @@ function App() {
           count is {count}
         </button>
       </div>
+      <form action="">
+        <input type="text" />
+      </form>
     </>
   );
 }
